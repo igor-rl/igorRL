@@ -12,7 +12,14 @@
 
   funtion: "Developer",
 
-  description: "Formado como Técnico em Eletrônica em 2013, Igor Lage tinha o hob de programar e criar aplicações pessoais para ajuda-lo no dia-a-dia. Em 2018 comercializou seu primeiro site de vendas construido em PHP, HTML, CSS e JavaScript. Decidido a seguir sua paixão, fez a transição de carreira em 2022 quando lanço-se no mercado em busca da primeira oprtunidade como desenvolvedor profissional. Amante de conhecimento prático e perfeccionista, tem a insassiável vontade de desenvolver soluções de software para os problemas do mundo real, desafiando-se constantemente para criar aplicações alto nível com tecnoligas modernas.",
+  description: "Formado como Técnico em Eletrônica em 2013,
+  Igor Lage tinha o hob de programar e criar aplicações pessoais para ajuda-lo no 
+  dia-a-dia. Em 2018 comercializou seu primeiro site de vendas construido em PHP, HTML,
+  CSS e JavaScript. Decidido a seguir sua paixão, fez a transição de carreira em 2022
+  quando lanço-se no mercado em busca da primeira oprtunidade como desenvolvedor
+  profissional. Amante de conhecimento prático e perfeccionista, tem a insassiável vontade
+  de desenvolver soluções de software para os problemas do mundo real, desafiando-se
+  constantemente para criar aplicações alto nível com tecnoligas modernas.",
 
   resulm: "Muito prazer, Igor 😆.",
 }
@@ -39,7 +46,7 @@
     <small>PHP</small>
   </div>
   <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40">
     <br/>
     <small>Node.JS</small>
   </div>
