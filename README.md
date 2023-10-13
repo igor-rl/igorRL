@@ -1,4 +1,10 @@
-## Sobre
+<!-- badges https://github.com/Ileriayo/markdown-badges -->
+<!-- icons https://devicon.dev/ -->
+<!-- perfil_examples https://github.com/iuricode/readme-template/tree/main/perfil-->
+
+<img src="https://img.shields.io/static/v1?label=Github&message=IRL&color=2d2d2d&style=for-the-badge&logo=GitHub">
+<hr/>
+
 ```yml
 {
   name: "Igor Rodrigues Lage",
@@ -18,10 +24,11 @@
 }
 ```
 
-<!-- badges https://github.com/Ileriayo/markdown-badges -->
-<!-- icons https://devicon.dev/ -->
+<br/>
+<br/>
+<img src="https://img.shields.io/static/v1?label=IRL&message=Dev%20Languages&color=2d2d2d&style=for-the-badge&logo=GitHub">
+<hr/>
 
-## Linguages
 ```yml
 {
   description: "Linguagens de programação utilizadas diariamente"
@@ -73,8 +80,11 @@
 </table>
 
 
+<br/>
+<br/>
+<img src="https://img.shields.io/static/v1?label=IRL&message=FRONT-END&color=2d2d2d&style=for-the-badge&logo=GitHub">
+<hr/>
 
-## Front-end
 ```yml
 {
   description: "layouts responsivos"
@@ -111,7 +121,11 @@
 </table>
 
 
-## Back-end
+<br/>
+<br/>
+<img src="https://img.shields.io/static/v1?label=IRL&message=BACK-END&color=2d2d2d&style=for-the-badge&logo=GitHub">
+<hr/>
+
 ```yml
 {
   description: "API RESTful"
@@ -132,8 +146,11 @@
   </tr>
 </table>
 
+<br/>
+<br/>
+<img src="https://img.shields.io/static/v1?label=IRL&message=DATABASE&color=2d2d2d&style=for-the-badge&logo=GitHub">
+<hr/>
 
-## Data-base
 ```yml
 {
   description: "Armazenamento de dados"
@@ -170,7 +187,11 @@
 </table>
 
 
-## Cloud
+<br/>
+<br/>
+<img src="https://img.shields.io/static/v1?label=IRL&message=CLOUD&color=2d2d2d&style=for-the-badge&logo=GitHub">
+<hr/>
+
 ```yml
 {
   description: "Cloud providers"
@@ -196,7 +217,11 @@
   </tr>
 </table>
 
-## DevOps
+<br/>
+<br/>
+<img src="https://img.shields.io/static/v1?label=IRL&message=DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
+<hr/>
+
 ```yml
 {
   description: "Deploy, monitoramento, mensageria, métricas e conteinerização"
@@ -235,6 +260,9 @@
 <br>
 <br>
 <br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=igorRL&show_icons=true&theme=radical">
+</div>
 <br>
 <br>
 <br>
