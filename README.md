@@ -1,6 +1,6 @@
-<div align="center" id="image_tema" style="font-size: 40px;">
+<div align="center">
 
-  # Igor Lage <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" height="60" />
+  # Igor Lage
 
 </div>
 
