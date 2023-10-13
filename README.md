@@ -3,7 +3,6 @@
 <!-- perfil_examples https://github.com/iuricode/readme-template/tree/main/perfil-->
 
 <img src="https://img.shields.io/static/v1?label=Github&message=IRL&color=2d2d2d&style=for-the-badge&logo=GitHub">
-<hr/>
 
 ```yml
 {
@@ -27,7 +26,6 @@
 <br/>
 <br/>
 <img src="https://img.shields.io/static/v1?label=IRL&message=Dev%20Languages&color=2d2d2d&style=for-the-badge&logo=GitHub">
-<hr/>
 
 ```yml
 {
@@ -83,7 +81,6 @@
 <br/>
 <br/>
 <img src="https://img.shields.io/static/v1?label=IRL&message=FRONT-END&color=2d2d2d&style=for-the-badge&logo=GitHub">
-<hr/>
 
 ```yml
 {
@@ -124,7 +121,6 @@
 <br/>
 <br/>
 <img src="https://img.shields.io/static/v1?label=IRL&message=BACK-END&color=2d2d2d&style=for-the-badge&logo=GitHub">
-<hr/>
 
 ```yml
 {
@@ -149,7 +145,6 @@
 <br/>
 <br/>
 <img src="https://img.shields.io/static/v1?label=IRL&message=DATABASE&color=2d2d2d&style=for-the-badge&logo=GitHub">
-<hr/>
 
 ```yml
 {
@@ -190,7 +185,6 @@
 <br/>
 <br/>
 <img src="https://img.shields.io/static/v1?label=IRL&message=CLOUD&color=2d2d2d&style=for-the-badge&logo=GitHub">
-<hr/>
 
 ```yml
 {
@@ -220,7 +214,6 @@
 <br/>
 <br/>
 <img src="https://img.shields.io/static/v1?label=IRL&message=DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
-<hr/>
 
 ```yml
 {
