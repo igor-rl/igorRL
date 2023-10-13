@@ -1,7 +1,16 @@
-<div align="center" id="image_tema">
+<div align="center" id="image_tema" style="font-size: 40px;">
 
-![igor_lage_banner](/src/img/4.png)
+<span>
+  <
+</span> 
+<span style="color:#bb7900">
+  IGOR LAGE
+</span>
+<span>
+  />
+</span>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" height="100" />
 </div>
 
 
@@ -87,33 +96,35 @@
   description: "layouts responsivos"
 }
 ```
-<div align="center">
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="40">
-    <br/>
-    <small>React.JS</small>
-  </div>
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" height="40">
-    <br/>
-    <small>Next.JS</small>
-  </div>
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs" height="40">
-    <br/>
-    <small>Angular.JS</small>
-  </div>
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" height="40">
-    <br/>
-    <small>Tailwind</small>
-  </div>
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="40">
-    <br/>
-    <small>Bootstrap</small>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="40">
+      <br/>
+      <small>React.JS</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" height="40">
+      <br/>
+      <small>Next.JS</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs" height="40">
+      <br/>
+      <small>Angular.JS</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" height="40">
+      <br/>
+      <small>Tailwind</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="40">
+      <br/>
+      <small>Bootstrap</small>
+    </td>
+  </tr>
+</table>
 
 
 ## Back-end
@@ -122,19 +133,20 @@
   description: "API RESTful"
 }
 ```
-<div align="center">
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" height="40">
-    <br/>
-    <small>Nest.JS</small>
-  </div>
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="40">
-    <br/>
-    <small>Go</small>
-  </div>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" height="40">
+      <br/>
+      <small>Nest.JS</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="40">
+      <br/>
+      <small>Go</small>
+    </td>
+  </tr>
+</table>
 
 
 ## Data-base
@@ -143,33 +155,35 @@
   description: "Armazenamento de dados"
 }
 ```
-<div align="center">
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" height="40">
-    <br/>
-    <small>Mongodb</small>
-  </div>
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" height="40">
-    <br/>
-    <small>Mysql</small>
-  </div>
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" height="40">
-    <br/>
-    <small>Postgresql</small>
-  </div>
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" height="40">
-    <br/>
-    <small>Redis</small>
-  </div>
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" height="40">
-    <br/>
-    <small>Sqlite</small>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" height="40">
+      <br/>
+      <small>Mongodb</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" height="40">
+      <br/>
+      <small>Mysql</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" height="40">
+      <br/>
+      <small>Postgresql</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" height="40">
+      <br/>
+      <small>Redis</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" height="40">
+      <br/>
+      <small>Sqlite</small>
+    </td>
+  </tr>
+</table>
 
 
 ## Cloud
@@ -178,24 +192,25 @@
   description: "Cloud providers"
 }
 ```
-<div align="center">
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" height="40" />
-    <br/>
-    <small>AWS</small>
-  </div>
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" height="40" />
-    <br/>
-    <small>Azure</small>
-  </div>
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" height="40" />
-    <br/>
-    <small>Google Cloud</small>
-  </div>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" height="40" />
+      <br/>
+      <small>AWS</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" height="40" />
+      <br/>
+      <small>Azure</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" height="40" />
+      <br/>
+      <small>Google Cloud</small>
+    </td>
+  </tr>
+</table>
 
 ## DevOps
 ```yml
@@ -203,34 +218,35 @@
   description: "Deploy, monitoramento, mensageria, métricas e conteinerização"
 }
 ```
-<div align="center">
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" height="40" />
-    <br/>
-    <small>Docker</small>
-  </div>
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="40" />
-    <br/>
-    <small>Kubernetes</small>
-  </div>
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" height="40" />
-    <br/>
-    <small>Grafana</small>
-  </div>
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" height="40" />
-    <br/>
-    <small>Terraform</small>
-  </div>
-  <div style="display: inline-block; margin-right: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" height="40" />
-    <br/>
-    <small>Kafka</small>
-  </div>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" height="40" />
+      <br/>
+      <small>Docker</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="40" />
+      <br/>
+      <small>Kubernetes</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" height="40" />
+      <br/>
+      <small>Grafana</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" height="40" />
+      <br/>
+      <small>Terraform</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" height="40" />
+      <br/>
+      <small>Kafka</small>
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>
