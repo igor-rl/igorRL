@@ -1,18 +1,8 @@
 <div align="center" id="image_tema" style="font-size: 40px;">
 
-<span>
-  <
-</span> 
-<span style="color:#bb7900">
-  IGOR LAGE
-</span>
-<span>
-  />
-</span>
+  # Igor Lage <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" height="60" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" height="100" />
 </div>
-
 
 ## Sobre
 ```yml
