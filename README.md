@@ -1,9 +1,3 @@
-<div align="center">
-
-  # Igor Lage
-
-</div>
-
 ## Sobre
 ```yml
 {
