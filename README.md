@@ -34,47 +34,47 @@
   description: "Linguagens de programação utilizadas diariamente"
 }
 ```
-<div align="center">
-  <span style="margin-right: 15px; text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="40">
     <br/>
     <small>Go</small>
-  </span>
-  <span style="margin-right: 15px; text-align: center;">
+  </div>
+  <div style="margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40">
     <br/>
     <small>PHP</small>
-  </span>
-  <span style="margin-right: 15px; text-align: center;">
+  </div>
+  <div style="margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40">
     <br/>
     <small>Node.JS</small>
-  </span>
-  <span style="margin-right: 15px; text-align: center;">
+  </div>
+  <div style="margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40">
     <br/>
     <small>TypeScript</small>
-  </span>
-  <span style="margin-right: 15px; text-align: center;">
+  </div>
+  <div style="margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40">
     <br/>
     <small>JavaScript</small>
-  </span>
-  <span style="margin-right: 15px; text-align: center;">
+  </div>
+  <div style="margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="40">
     <br/>
     <small>jQuery</small>
-  </span>
-  <span style="margin-right: 15px; text-align: center;">
+  </div>
+  <div style="margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40">
     <br/>
     <small>HTML5</small>
-  </span>
-  <span style="text-align: center;">
+  </div>
+  <div style="display: inline-block; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40">
     <br/>
     <small>CSS3</small>
-  </span>
+  </div>
 </div>
 
 
